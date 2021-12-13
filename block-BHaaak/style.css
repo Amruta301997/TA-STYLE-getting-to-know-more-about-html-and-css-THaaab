@@ -1,0 +1,30 @@
+body{ background-color: rgb(238, 238, 248);}
+
+.heading
+{
+    color:rgb(211, 116, 243);
+}
+
+.heading1
+{
+    color:rgb(12, 247, 110); font-size: 28px;
+}
+
+.para
+{
+    font-size: 18px; color: forestgreen;
+}
+
+.para1
+{
+    color: rgb(20, 19, 20); font-size: 19px;
+}
+
+.header{
+    text-align: center;
+
+}
+
+.footer{
+    background-color: fuchsia; text-align: center;
+}
